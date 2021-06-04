@@ -1,0 +1,6 @@
+org.example:consume:jar:1.0-SNAPSHOT
++- org.example.test:project03:jar:1.0:compile
+|  \- org.example.test:project02:jar:1.0:compile
+|     \- (org.apache.commons:commons-lang3:jar:3.1:compile - version managed from 3.0; omitted for duplicate)
+\- org.example.test:project1:jar:1.0:compile
+   \- org.apache.commons:commons-lang3:jar:3.1:compile

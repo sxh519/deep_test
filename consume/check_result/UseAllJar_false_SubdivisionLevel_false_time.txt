@@ -1,0 +1,35 @@
+Project>>>>org.exampleconsume1.0-SNAPSHOT
+AllJar>>>>6
+UseAllJar>>>>5
+Pruning>>>>
+Time>>>>1348s (22:28min)
+firstConflictTime>>>6s
+========================
+Project>>>>org.exampleconsume1.0-SNAPSHOT
+AllJar>>>>6
+UseAllJar>>>>5
+Pruning>>>>
+Time>>>>7s
+firstConflictTime>>>4s
+========================
+Project>>>>org.exampleconsume1.0-SNAPSHOT
+AllJar>>>>6
+UseAllJar>>>>5
+Pruning>>>>
+Time>>>>4s
+firstConflictTime>>>4s
+========================
+Project>>>>org.exampleconsume1.0-SNAPSHOT
+AllJar>>>>6
+UseAllJar>>>>5
+Pruning>>>>
+Time>>>>3s
+firstConflictTime>>>0s
+========================
+Project>>>>org.exampleconsume1.0-SNAPSHOT
+AllJar>>>>6
+UseAllJar>>>>5
+Pruning>>>>
+Time>>>>1071s (17:51min)
+firstConflictTime>>>4s
+========================
